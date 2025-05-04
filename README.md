@@ -10,6 +10,8 @@ This platform enables users to generate and personalize marketing creatives base
 
 I joined the team at an advanced stage of development and took over ownership of the **template creation system** — a core component of the personalization engine.
 
+Although I joined the project at a late stage, I quickly integrated into the team's Agile flow in Jira and began working closely with backend developers, designers, and QA. Template development required detailed coordination with the design team (Sketch), BE engineers, and testers, particularly around rendering logic and layout constraints. I also participated in planning sessions to prioritize template work and ensure compatibility across the personalization engine. My time management and clear communication helped streamline this highly collaborative workflow.
+
 Key responsibilities:
 
 - Creating and maintaining **customizable ad templates** used in the rendering and AI-personalization pipeline
