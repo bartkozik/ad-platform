@@ -1,6 +1,6 @@
 # AI-Driven Ad Creative Platform – Template Development Module (NDA Project)
 
-**Note:** This is an ongoing project under NDA. This README is provided for portfolio purposes only – no source code is included.
+**Note:** This project is covered by NDA. This README is provided for portfolio purposes only – no source code is included.
 
 ## 📣 Project Overview
 
@@ -19,6 +19,18 @@ Key responsibilities:
 - Working with constraints such as character limits, multi-line rendering, dynamic positioning, and responsive scaling
 - Validating templates against business and layout rules using custom test harnesses and Vitest-based tools
 - Collaborating with backend and AI teams to ensure the correct integration between templates and personalization logic
+
+## 🆕 Recent Contributions in 2026
+
+My work also covered the editor and brand configuration workflows around the template system:
+
+- Refined **gradient and color editing controls**, resolving conflicting state updates when modifying gradient stops.
+- Improved **shared fill-model utilities** so editing behavior follows one update path instead of duplicating state transformations.
+- Contributed to **brand creation from uploaded documents** and related validation and action-required states.
+- Consolidated repeated brand-logo checks into shared services while preserving the behavior of different update flows.
+- Strengthened **TypeScript models and collection processing**, and added or maintained focused regression tests for affected logic.
+
+This work combined interactive React UI with typed application contracts and coordination across frontend and backend boundaries.
 
 ## 🛠️ Tech Stack
 
@@ -46,9 +58,9 @@ Key responsibilities:
 - Each template must support dynamic content injection and transformation
 - The design system must handle a variety of formats, locales, and content densities
 
-## 🚀 Status
+## 🚀 Contribution Summary
 
-Development is ongoing, with weekly iterations and cross-team collaboration. My contributions ensure the consistency and reliability of the creative foundation used throughout the platform.
+My contributions span template development, interactive editing and brand configuration workflows. This overview includes work completed in 2026 and focuses on the parts I implemented or refined.
 
 ---
 
